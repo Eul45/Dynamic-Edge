@@ -1,1 +1,9 @@
-# Dynamic-Edge
+<p align="center">
+  <em>Source code coming soon! Until then, check out the app on the Microsoft Store:</em>
+</p>
+
+<p align="center">
+  <a href="https://get.microsoft.com/installer/download/9pf1587ksn2k?referrer=appbadge" target="_blank">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft Store" width="200" />
+  </a>
+</p>
