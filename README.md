@@ -1,6 +1,3 @@
-<p align="center">
-  <em>Source code coming soon! Until then, check out the app on the Microsoft Store:</em>
-</p>
 
 <p align="center">
   <a href="https://apps.microsoft.com/detail/9pf1587ksn2k" target="_blank">
